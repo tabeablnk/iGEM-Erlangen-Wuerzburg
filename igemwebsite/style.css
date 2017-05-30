@@ -1,0 +1,16 @@
+* {
+
+border-sizing: border-box;
+border: 1px solid rgba(0,0,0,0.3);
+
+}
+
+#mainmenu {
+
+}
+
+#mainmenu li {
+    display: inline;
+
+    text-align: center;
+}
